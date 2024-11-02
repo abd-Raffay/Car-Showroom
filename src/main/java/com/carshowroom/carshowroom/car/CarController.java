@@ -36,7 +36,6 @@ public class CarController {
         return carservice.getCar(id);
     }
 
-
     @RequestMapping(value="/cars",method = RequestMethod.POST)
     public void addCar(@RequestBody Car car){
         carservice.addCar(car);
