@@ -3,18 +3,18 @@ CarShowroom is a Spring Boot application designed for managing a list of cars wi
 
 **Features**
 
-Add a Car: Add new cars to the showroom.
-View Cars: View the list of all cars available in the showroom.
-Edit Car Details: Update information for existing cars.
-Remove Car: Delete cars from the inventory.
+1. Add a Car: Add new cars to the showroom.
+2. View Cars: View the list of all cars available in the showroom.
+3. Edit Car Details: Update information for existing cars.
+4. Remove Car: Delete cars from the inventory.
 
 **Technologies Used**
 
-Java 17: Provides the latest features and improvements.
-Spring Boot: Framework that simplifies development with built-in configurations.
-Maven: Dependency management and project building.
-Apache Derby: Lightweight database for storing car data.
-Docker: Containerization for deployment on Render.
-Render: Cloud platform used for hosting the application.
+1. Java 17: Provides the latest features and improvements.
+2. Spring Boot: Framework that simplifies development with built-in configurations.
+3. Maven: Dependency management and project building.
+4. Apache Derby: Lightweight database for storing car data.
+5. Docker: Containerization for deployment on Render.
+6. Render: Cloud platform used for hosting the application.
 
 
